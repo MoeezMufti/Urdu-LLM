@@ -20,6 +20,7 @@ This project is intended as an academic prototype: simple, functional, and expan
 *OPENAI_API_KEY=your_api_key_here*
 
 4. Run the App
+   
 *streamlit run app_v02.py*
 
 # Limitations
