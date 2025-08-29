@@ -10,6 +10,7 @@ This project is intended as an academic prototype: simple, functional, and expan
 *cd urdu-notebook*
 
 2. Install Dependencies
+
 *pip install -r requirements.txt*
 
 3. Set up Environment
