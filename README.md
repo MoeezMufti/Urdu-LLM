@@ -9,10 +9,10 @@ This project is intended as an academic prototype: simple, functional, and expan
 
 *cd urdu-notebook*
 
-3. Install Dependencies
+2. Install Dependencies
 *pip install -r requirements.txt*
 
-4. Set up Environment
+3. Set up Environment
 
 *Create a .env file in the project root and add your OpenAI key:*
 
