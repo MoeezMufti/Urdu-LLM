@@ -5,16 +5,16 @@ This project is intended as an academic prototype: simple, functional, and expan
 
 # Getting Started
 1. Clone the Repository
-*git clone <repo-link>
-cd urdu-notebook*
+*git clone <repo-link>*
+*cd urdu-notebook*
 
 2. Install Dependencies
 *pip install -r requirements.txt*
 
 3. Set up Environment
 
-*Create a .env file in the project root and add your OpenAI key:
-OPENAI_API_KEY=your_api_key_here*
+*Create a .env file in the project root and add your OpenAI key:*
+*OPENAI_API_KEY=your_api_key_here*
 
 4. Run the App
 *streamlit run app_v02.py*
